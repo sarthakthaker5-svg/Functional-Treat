@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **Data Analyzer and Transformer Program** is a Python-based console application designed to perform various operations on a one-dimensional (1D) array using lists. This project demonstrates the use of built-in functions, user-defined functions (UDFs), recursion, lambda functions, `*args`, `**kwargs`, and return statements.
+The **Data Analyzer and Transformer Program** is a Python-based console application designed to perform various operations on a one-dimensional (1D) array using lists. This project demonstrates the use of built-in functions, user-defined functions (UDFs), recursion, lambda functions, and return statements.
 
 The program allows users to input numerical data, analyze it, filter values, sort data, calculate factorials, and display statistical information through an interactive menu-driven interface.
 
@@ -50,10 +50,6 @@ Returns multiple values:
 * Sum
 * Average
 
-### 7. *args and **kwargs Demonstration
-
-* Demonstrates the use of `*args` for passing multiple arguments.
-* Demonstrates the use of `**kwargs` for passing keyword arguments.
 
 ### 8. Exit Program
 
@@ -86,8 +82,6 @@ Functions created by the programmer:
 * `sort()`
 * `statistics()`
 * `display_statistics()`
-* `show_args()`
-* `show_kwargs()`
 
 ### Recursion
 
@@ -105,21 +99,6 @@ Used in:
 filter(lambda x: x >= value, dataset)
 ```
 
-### *args
-
-Used to accept multiple positional arguments:
-
-```python
-def show_args(*args):
-```
-
-### **kwargs
-
-Used to accept multiple keyword arguments:
-
-```python
-def show_kwargs(**kwargs):
-```
 
 ### Returning Multiple Values
 
@@ -128,7 +107,10 @@ Used in:
 ```python
 return minimum, maximum, total, average
 ```
-
+## Project Screenshots
+FT1.png
+FT2.png
+FT3.png
 ---
 
 ## Program Flow
