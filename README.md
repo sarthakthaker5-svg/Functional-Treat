@@ -107,17 +107,6 @@ Used in:
 ```python
 return minimum, maximum, total, average
 ```
-## Output Screenshots
-
-### Output 1
-![Output 1](FT1.png)
-
-### Output 2
-![Output 2](FT2.png)
-
-### Output 3
-![Output 3](FT3.png)
----
 
 ## Program Flow
 
@@ -127,7 +116,25 @@ return minimum, maximum, total, average
 4. Program performs the requested task.
 5. Results are displayed.
 6. User may continue or exit.
+7. 
+## Output Screenshots
 
+### Output 1
+![Output 1](FT1.png)
+
+### Output 2
+![Output 2](FT2.png)
+
+
+### Output 3
+![Output 3](FT3.png)
+---
+##Video
+## 🎥 Project Demo Video
+
+Watch the complete project demonstration here:
+
+[▶ Watch Demo Video](https://github.com/sarthakthaker5-svg/Functional-Treat/blob/main/video1944875549.mp4)
 ---
 ## Author
 
