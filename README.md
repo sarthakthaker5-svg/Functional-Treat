@@ -107,10 +107,16 @@ Used in:
 ```python
 return minimum, maximum, total, average
 ```
-## Project Screenshots
-FT1.png
-FT2.png
-FT3.png
+## Output Screenshots
+
+### Output 1
+![Output 1](FT1.png)
+
+### Output 2
+![Output 2](FT2.png)
+
+### Output 3
+![Output 3](FT3.png)
 ---
 
 ## Program Flow
